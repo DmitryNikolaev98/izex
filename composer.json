@@ -1,0 +1,11 @@
+{
+    "name": "nikd/izex",
+    "description": "test project for izex",
+    "authors": [
+        {
+            "name": "Dmitry Nikolaev",
+            "email": "nik.dima001@yandex.ru"
+        }
+    ],
+    "require": {}
+}
